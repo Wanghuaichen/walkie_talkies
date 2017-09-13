@@ -1,0 +1,1 @@
+"./CC1310_LAUNCHXL.obj" "./RFQueue.obj" "./ccfg.obj" "./rfPacketRx.obj" "./smartrf_settings/smartrf_settings.obj" "../CC1310_LAUNCHXL_TIRTOS.cmd" "../cc13x0f128.cmd" -l"configPkg/linker.cmd" -l"/products/cc13xxware_2_04_03_17272/driverlib/bin/ccs/driverlib.lib" -llibc.a 
